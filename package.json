@@ -1,5 +1,5 @@
 {
-    "name": "kudos_server",
+    "name": "kudos-server",
     "description": "Server to store and query the svbtle-jekyll kudos",
     "version": "0.0.2",
     "private": true,
@@ -15,10 +15,10 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git://github.com/orlando/kudos_server.git"
+        "url": "git://github.com/orlando/kudos-server.git"
     },
     "keywords": [
-        "kudos_server",
+        "kudos-server",
         "jekyll",
         "svbtle-jekyll",
         "svbtle"
@@ -26,7 +26,7 @@
     "author": "Orlando Del Aguila",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/orlando/kudos_server/issues"
+        "url": "https://github.com/orlando/kudos-server/issues"
     },
     "engines": {
         "node": "0.10.x"
